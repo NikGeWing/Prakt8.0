@@ -1,0 +1,14 @@
+C:\Users\Студент\source\repos\fffdfdfsdsf\obj\Debug\fffdfdfsdsf.csprojAssemblyReference.cache
+C:\Users\Студент\source\repos\fffdfdfsdsf\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\source\repos\fffdfdfsdsf\obj\Debug\App.g.cs
+C:\Users\Студент\source\repos\fffdfdfsdsf\obj\Debug\fffdfdfsdsf_MarkupCompile.cache
+C:\Users\Студент\source\repos\fffdfdfsdsf\obj\Debug\fffdfdfsdsf_MarkupCompile.lref
+C:\Users\Студент\source\repos\fffdfdfsdsf\bin\Debug\fffdfdfsdsf.exe.config
+C:\Users\Студент\source\repos\fffdfdfsdsf\bin\Debug\fffdfdfsdsf.exe
+C:\Users\Студент\source\repos\fffdfdfsdsf\bin\Debug\fffdfdfsdsf.pdb
+C:\Users\Студент\source\repos\fffdfdfsdsf\obj\Debug\MainWindow.baml
+C:\Users\Студент\source\repos\fffdfdfsdsf\obj\Debug\fffdfdfsdsf.g.resources
+C:\Users\Студент\source\repos\fffdfdfsdsf\obj\Debug\fffdfdfsdsf.Properties.Resources.resources
+C:\Users\Студент\source\repos\fffdfdfsdsf\obj\Debug\fffdfdfsdsf.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\fffdfdfsdsf\obj\Debug\fffdfdfsdsf.exe
+C:\Users\Студент\source\repos\fffdfdfsdsf\obj\Debug\fffdfdfsdsf.pdb
